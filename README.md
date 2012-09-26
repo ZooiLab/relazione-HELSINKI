@@ -38,4 +38,12 @@ L'aggiornamento della banca dati è stato reso aperto a tutta la comunità, tra 
 12-Open knowledge and sustainability
 
 Karthikeya Acharya è un ex dottorando indiano che da Mumbai è venuto per raccontare in breve la sua ricerca di tesi sull'utilizzo dell'energia elettrica negli appartamenti della sua città.
-Quello che Acharya ha fatto è stato confrontare
+Quello che Acharya ha fatto è stato confrontare i consumi elettrici di diverse famiglie, utilizzando uno strumento da lui prototipato grazie al microcontrollore open-source Arduino, analizzando anche il diverso consumo stanza per stanza. Il progetto prevedeva una sorta di "gara" tra diverse famiglie al fine di creare una spontanea diminuzione dei consumi. La tesi è di rendere pubblici i propri consumi, addirittura segnalandoli all'esterno della facciata del palazzo.
+
+Il progetto è cresciuto insieme a Ken Dooley in un sito ( http://www.carbonrally.com/ ) dove questa gara viene riproposta ed estesa globalmente.
+Questo portale web permette di condividere i propri consumi energetici, monitorare il proprio utilizzo, migliorare la propria efficienza.
+
+William Heath presenta invece una piattaforma - ancora non disponibile perchè in fase di prototipazione - di gestione delle proprie risorse economiche. Si tratta di una sorta di piattaforma in cui è possibile avere un'idea complessiva delle proprie entrate ed uscite economiche (saldo in banca, bollette luce/gas, bollo auto…etc.).
+L'idea è di permettere a questo strumento di analizzare i nostri consumi e incrociare questi dati con tutte le offerte migliori presenti sul mercato ( ad esempio analizzando le chiamate 
+
+
